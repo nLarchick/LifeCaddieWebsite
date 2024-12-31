@@ -1,0 +1,29 @@
+---- DEFAULT COLORS ----
+    Dark Blue:
+        #1e435a
+    Orange:
+        #e49d5d
+    Light Grey:
+        #d4d4d4
+    Dark Grey:
+        #5c5c5c
+    Brown/Grey:
+        #4a3c39
+---- COSTAL SUNSET ----
+    Crisp White:
+        #ffffff
+    ---- CLASSIC ----
+    Light Grey/Blue:
+        #8ba4b0
+---- AUTUMN ----
+    Light Yellow:
+        #f3c06D
+    Maroonish Brown:
+        #8c4f3d
+    Dull Brown:
+        #4a3c39
+---- OCEAN ----
+    Pale Gold:
+        #f4d9a0
+    Pink/Sunset:
+        #ff6f61
