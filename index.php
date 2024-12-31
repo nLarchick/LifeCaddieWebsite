@@ -2,7 +2,9 @@
 /**
  * index.php
  *
- * This is the main entry point for the website.
+ * This is an empty entry point,
+ * Used for dynamic identification of mobile
+ *  devices vs desktop devices.
  *
  * @author Noah Larchick <larchicknoah@gmail.com>
  * @copyright Copyright (c) 2024 Life Caddie
