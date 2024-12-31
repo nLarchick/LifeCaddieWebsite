@@ -1,5 +1,9 @@
 # Enable URL rewriting
 RewriteEngine On
+RewriteBase /LifeCaddieWebsite/
+
+# Rewrite "/home" to "desktop/d_home.php"
+RewriteRule ^home$ desktop/d_home.php [L]
 
 # Redirect to HTTPS
 RewriteCond %{HTTPS} !=on
