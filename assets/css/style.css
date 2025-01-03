@@ -8,3 +8,13 @@
     - Color palates can be found @ "colors.txt" file
     - Along with descriptions for each, use for easy color hex selection.
 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d4d4d4;
+}

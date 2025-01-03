@@ -16,10 +16,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>(D) Home</title> <!-- Make sure to remove the (M) -->
+    <link rel="stylesheet" href="\LifeCaddieWebsite\assets\css\style.css">
+    <title>Home</title>
 </head>
 <body>
-    <h1>Welcome to the <strong>Desktop Version</strong> of the Website</h1>
-    <p>This is optimized for desktop devices.</p>
+    <img src="\LifeCaddieWebsite\assets\pictures\CleanHouse.png" alt="Banner photo of clean home." width="100%" />
 </body>
 </html>
