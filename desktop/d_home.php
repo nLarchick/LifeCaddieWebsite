@@ -23,7 +23,22 @@
     <div class="banner">
         <img src="\LifeCaddieWebsite\assets\pictures\CleanHouse.png" alt="Banner photo of clean home." width="100%" />
         <div class="bannerInternal">
-            Your Text Here
+            <div class="bannerL">
+                <h2>We can help with</h2>
+                <h2>Downsizing</h2>
+            </div>
+            <div class="bannerR">
+                <button class="bannerButton">First Button</button>
+                <script>
+                    let bannerSizing = document.querySelector(".banner");
+                    let bannerHeight = bannerSizing.offsetHeight;
+                    let brElement = document.createElement("br");
+                    brElement.style.height = `${bannerHeight/8}px`;
+                    bannerSizing.appendChild(brElement);
+                </script>
+                <br style="height: 5px;">
+                <button class="bannerButton">-- Need to be this wide. --</button>
+            </div>
         </div>
     </div>
     <div class="temp">
