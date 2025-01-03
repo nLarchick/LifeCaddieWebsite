@@ -18,3 +18,23 @@
 body {
     background-color: #d4d4d4;
 }
+
+.banner {
+    position: relative;
+}
+
+.bannerInternal { /* Dont forget to add: text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); for visability. */
+    background-color: red; /*This is tmp*/
+
+    transform: translate(-50%, -50%);
+    position: absolute;
+    font-size: 3vw;
+    color: white;
+    width: 75%;
+    left: 50%;
+    top: 50%;
+}
+
+.temp {
+    background-color: red;
+}

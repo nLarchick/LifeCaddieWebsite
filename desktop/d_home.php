@@ -20,6 +20,14 @@
     <title>Home</title>
 </head>
 <body>
-    <img src="\LifeCaddieWebsite\assets\pictures\CleanHouse.png" alt="Banner photo of clean home." width="100%" />
+    <div class="banner">
+        <img src="\LifeCaddieWebsite\assets\pictures\CleanHouse.png" alt="Banner photo of clean home." width="100%" />
+        <div class="bannerInternal">
+            Your Text Here
+        </div>
+    </div>
+    <div class="temp">
+        <p>This is a lil test!</p>
+    </div>
 </body>
 </html>
