@@ -38,12 +38,11 @@ body {
 }
 
 .bannerL {
-    background-color: greenyellow;
     text-align: center;
+    color: white;
 }
 
 .bannerR {
-    background-color: orange;
     justify-content: center;
     flex-direction: column;
     text-align: center;
@@ -51,20 +50,58 @@ body {
 }
 
 .bannerButton {
-    background-color: white;
-    border: 2px solid black;
+    background-color: #1e435a;
+    border: 2px solid #1e435a;
     transition: all 0.3s ease;
     border-radius: 15px;
     padding: 10px 20px;
+    color: white;
     font-size: 1.5vw;
-    color: black;
 }
 
 .bannerButton:hover {
-    background-color: black;
-    color: white;
+    background-color: #e49d5d;
+    color: #5c5c5c;
+    cursor: pointer;
 }
 
-.temp {
-    background-color: red;
+.aboutSection {
+    flex-direction: column;
+    text-align: center;
+    padding: 0vw 12vw;
+    display: flex;
+}
+
+.aboutSection h3 {
+    color: #1e435a;
+    font-size: 3vw;
+}
+
+.aboutSection h5 {
+    color: #5c5c5c;
+    font-size: 1.5vw;
+}
+
+.aboutContent {
+    background-color: white;
+    justify-content: space-between;
+    flex-direction: row;
+    color: #1e435a;
+    font-size: 1.5vw;
+    display: flex;
+    padding: 10px;
+}
+
+.aboutL {
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    width: 49%;
+}
+
+.aboutR {
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    width: 49%;
 }
