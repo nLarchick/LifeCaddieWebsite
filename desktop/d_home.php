@@ -60,4 +60,7 @@
         <div style="height: 2.5vw;"></div>
     </div>
 </body>
+<footer>
+    <?php include 'footer.php'; ?>
+</footer>
 </html>
