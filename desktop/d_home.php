@@ -57,8 +57,8 @@
                 <img src="\LifeCaddieWebsite\assets\pictures\LifeCaddieLogo.jpg" alt="Life Caddie Logo." width="100%" />
             </div>
         </div>
-        <div style="height: 2.5vw;"></div>
     </div>
+    <div style="height: 2.5vw;"></div>
 </body>
 <footer>
     <?php include 'footer.php'; ?>

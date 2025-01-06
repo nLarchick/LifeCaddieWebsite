@@ -107,8 +107,10 @@ body {
 }
 
 .footer {
-    background-color: greenyellow;
+    background-color: #1e435a;
     text-align: center;
+    padding: 10px 0px 0px;
+    color: white;
 }
 
 .footerLists {
