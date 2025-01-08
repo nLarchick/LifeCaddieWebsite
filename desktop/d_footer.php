@@ -1,6 +1,6 @@
 <?php
 /**
- * footer.php
+ * d_footer.php
  *
  * This is the default footer for pages on the
  * Life Caddie website.
