@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/example/public_html/website_da68b21c/gitConstruct/
-    - find . ! -name "$(basename "$0")" -exec /bin/cp -R --parents {} $DEPLOYPATH \;
