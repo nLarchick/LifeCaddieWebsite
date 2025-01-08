@@ -13,4 +13,14 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<p>This is the temp header!</p>
+<div class="navBar">
+    <div class="logoContainer">
+        <img src="\LifeCaddieWebsite\assets\pictures\LifeCaddieLogoSquare.png" alt="Life Caddie logo." height="100%"/>
+    </div>
+    <div class="navDirections">
+        <button class="navButton">First button!</button>
+        <button class="navButton">Second button!</button>
+        <button class="navButton">Third button!</button>
+        <button class="navButton">Fourth button!</button>
+    </div>
+</div>

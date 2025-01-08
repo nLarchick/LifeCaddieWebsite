@@ -20,7 +20,7 @@
     <title>Home</title>
 </head>
 <header>
-    <p>This is a lil test!</p>
+    <?php include 'd_header.php'; ?>
 </header>
 <body>
     <div class="banner">
