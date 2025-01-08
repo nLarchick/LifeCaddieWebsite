@@ -19,6 +19,9 @@
     <link rel="stylesheet" href="\LifeCaddieWebsite\assets\css\style.css">
     <title>Home</title>
 </head>
+<header>
+    <p>This is a lil test!</p>
+</header>
 <body>
     <div class="banner">
         <img src="\LifeCaddieWebsite\assets\pictures\CleanHouse.png" alt="Banner photo of clean home." width="100%" />
@@ -61,6 +64,6 @@
     <div style="height: 2.5vw;"></div>
 </body>
 <footer>
-    <?php include 'footer.php'; ?>
+    <?php include 'd_footer.php'; ?>
 </footer>
 </html>
