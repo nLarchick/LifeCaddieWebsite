@@ -1,7 +1,0 @@
----
-  deployment:
-    tasks:
-      - export:
-          name: Pull Latest Changes
-          command: |
-            git pull origin main
