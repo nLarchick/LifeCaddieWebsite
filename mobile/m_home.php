@@ -16,7 +16,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>(M) Home</title> <!-- Make sure to remove the (M) -->
+    <link rel="stylesheet" href="../assets/css/mobile_style.css">
+    <title>Home</title>
 </head>
 <body>
     <h1>Welcome to the <strong>Mobile Version</strong> of the Website</h1>

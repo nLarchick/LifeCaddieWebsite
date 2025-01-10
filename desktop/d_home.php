@@ -1,6 +1,6 @@
 <?php
 /**
- * mobile_home.php
+ * desktop_home.php
  *
  * This is the landing page for the desktop version
  * of the Life Caddie website.
