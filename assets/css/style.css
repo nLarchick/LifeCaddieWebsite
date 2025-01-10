@@ -19,6 +19,10 @@ body {
     background-color: #d4d4d4;
 }
 
+.transparent {
+    opacity: 0.8;
+}
+
 .navBar {
     justify-content: space-between;
     background-color: #1e435a;
@@ -26,7 +30,7 @@ body {
     position: fixed;
     display: flex;
     z-index: 1000;
-    height: 8vw;
+    height: 4vw;
     width: 100%;
     padding: .5vw;
 }
@@ -55,8 +59,8 @@ body {
 }
 
 .navButton:hover {
-    cursor: pointer;
     color: #e49d5d;
+    cursor: pointer;
 }
 
 .banner {
