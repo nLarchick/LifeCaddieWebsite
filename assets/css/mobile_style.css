@@ -49,7 +49,7 @@ body {
     transition: all 0.3s ease;
     border-radius: 15px;
     padding: 10px 20px;
-    font-size: 1.5vw;
+    font-size: 2.5vw;
     color: white;
 }
 
@@ -60,15 +60,21 @@ body {
 }
 
 .aboutSection {
-    background-color: orange;
     justify-items: center;
 }
 
 .aboutContent {
-    background-color: greenyellow;
     flex-direction: column;
     text-align: center;
     display: flex;
     width: 85%;
     gap: 10px;
+}
+
+.aboutContent p, h3 {
+    color: #1e435a;
+}
+
+.aboutContent h5 {
+    color: #5c5c5c;
 }
