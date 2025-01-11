@@ -66,6 +66,7 @@ body {
 .aboutContent {
     flex-direction: column;
     text-align: center;
+    font-size: 3.5vw;
     display: flex;
     width: 85%;
     gap: 10px;
@@ -77,4 +78,11 @@ body {
 
 .aboutContent h5 {
     color: #5c5c5c;
+}
+
+.footer {
+    background-color: #1e435a;
+    padding: 10px 0px 10px;
+    text-align: center;
+    color: white;
 }
