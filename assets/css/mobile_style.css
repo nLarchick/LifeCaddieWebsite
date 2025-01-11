@@ -22,3 +22,53 @@ body {
 .transparent {
     opacity: 0.8;
 }
+
+.banner {
+    position: relative;
+}
+
+.bannerInternal {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    transform: translate(-50%, -50%);
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    text-align: center;
+    font-size: 6.5vw;
+    color: white;
+    display: flex;
+    width: 72%;
+    gap: 10px;
+    left: 50%;
+    top: 50%;
+}
+
+.bannerButton {
+    background-color: #1e435a;
+    border: 2px solid #1e435a;
+    transition: all 0.3s ease;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-size: 1.5vw;
+    color: white;
+}
+
+.bannerButton:hover {
+    background-color: #d4d4d4;
+    color: #5c5c5c;
+    cursor: pointer;
+}
+
+.aboutSection {
+    background-color: orange;
+    justify-items: center;
+}
+
+.aboutContent {
+    background-color: greenyellow;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    width: 85%;
+    gap: 10px;
+}

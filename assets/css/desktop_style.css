@@ -30,13 +30,12 @@ body {
     position: fixed;
     display: flex;
     z-index: 1000;
+    padding: .5vw;
     height: 4vw;
     width: 100%;
-    padding: .5vw;
 }
 
 .logoContainer {
-    background-color: red;
     align-items: center;
     display: flex;
     height: 100%;
@@ -68,9 +67,8 @@ body {
 }
 
 .bannerInternal {
-
-    transform: translate(-50%, -50%);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    transform: translate(-50%, -50%);
     justify-content: space-between;
     position: absolute;
     font-size: 3vw;
@@ -99,8 +97,8 @@ body {
     transition: all 0.3s ease;
     border-radius: 15px;
     padding: 10px 20px;
-    color: white;
     font-size: 1.5vw;
+    color: white;
 }
 
 .bannerButton:hover {
@@ -127,8 +125,8 @@ body {
 }
 
 .aboutContent {
-    background-color: white;
     justify-content: space-between;
+    background-color: white;
     flex-direction: row;
     color: #1e435a;
     font-size: 1.5vw;
@@ -137,29 +135,29 @@ body {
 }
 
 .aboutL {
-    flex-direction: column;
     justify-content: center;
+    flex-direction: column;
     display: flex;
     width: 49%;
 }
 
 .aboutR {
-    flex-direction: column;
     justify-content: center;
+    flex-direction: column;
     display: flex;
     width: 49%;
 }
 
 .footer {
     background-color: #1e435a;
-    text-align: center;
     padding: 10px 0px 0px;
+    text-align: center;
     color: white;
 }
 
 .footerLists {
-    flex-direction: row;
     justify-content: center;
+    flex-direction: row;
     font-size: 0.8vw;
     display: flex;
     gap: 60px;

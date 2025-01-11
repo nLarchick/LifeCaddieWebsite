@@ -20,7 +20,33 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Welcome to the <strong>Mobile Version</strong> of the Website</h1>
-    <p>This is optimized for mobile devices.</p>
+<div class="banner">
+        <img src="../assets/pictures/CleanHouse.png" alt="Banner photo of clean home." width="100%" />
+        <div class="bannerInternal">
+            <h2>We can help with Downsizing</h2>
+            <button class="bannerButton">First Button</button>
+            <button class="bannerButton">-- Need to be this wide. --</button>
+        </div>
+</div>
+<div style="height: 2.5vw;"></div>
+<div class="aboutSection">
+        <div class="aboutContent">
+            <h3>About Us</h3>
+            <h5>Learn more about the Life Caddie company</h5>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius hendrerit libero, a varius dolor 
+                sodales quis. Maecenas facilisis lectus dictum erat pretium eleifend. Ut cursus ante diam, non vestibulum 
+                urna semper sed. Nunc ac maximus erat, non tristique metus. Donec nec metus et mauris gravida vestibulum. 
+                Integer et mi nec nibh ultricies pretium quis ac sapien. Vestibulum id leo lacus. In finibus ut odio vel 
+                ullamcorper. Curabitur at neque tempor dui posuere pharetra. Vivamus fringilla, orci a accumsan vulputate, 
+                est est porta dui, eu feugiat nisl est at velit. Sed finibus sodales ante sodales mattis. Nullam gravida 
+                purus ac ante elementum accumsan. Etiam congue orci viverra augue convallis, id vestibulum lectus 
+                sollicitudin. Vestibulum bibendum urna sit amet dictum faucibus. Duis ligula ex, consectetur eu risus 
+                nec, semper pellentesque lorem. Vivamus vulputate a dolor eget pretium.
+            </p>
+            <img src="../assets/pictures/LifeCaddieLogo.jpg" alt="Life Caddie Logo." width="100%" />
+        </div>
+    </div>
+    <div style="height: 2.5vw;"></div>
 </body>
 </html>
