@@ -16,12 +16,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../assets/css/mobile_style.css">
+    <link rel="stylesheet" href="/LifeCaddieWebsite/assets/css/mobile_style.css">
     <title>Home</title>
 </head>
 <body>
 <div class="banner">
-        <img src="../assets/pictures/CleanHouse.png" alt="Banner photo of clean home." width="100%" />
+        <img src="/LifeCaddieWebsite/assets/pictures/CleanHouse.png" alt="Banner photo of clean home." width="100%" />
         <div class="bannerInternal">
             <h2>We can help with Downsizing</h2>
             <button class="bannerButton">First Button</button>
@@ -40,7 +40,7 @@
                 Integer et mi nec nibh ultricies pretium quis ac sapien. Vestibulum id leo lacus. In finibus ut odio vel 
                 ullamcorper. Curabitur at neque tempor dui posuere pharetra.
             </p>
-            <img src="../assets/pictures/LifeCaddieLogo.jpg" alt="Life Caddie Logo." width="100%" />
+            <img src="/LifeCaddieWebsite/assets/pictures/LifeCaddieLogo.jpg" alt="Life Caddie Logo." width="100%" />
         </div>
 </div>
 <div style="height: 2.5vw;"></div>
