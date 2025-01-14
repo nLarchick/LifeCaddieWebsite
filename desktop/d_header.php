@@ -13,7 +13,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<script src="../assets/js/headerConvert.js"></script>
+<script src="/LifeCaddieWebsite/assets/js/headerConvert.js"></script>
 <div class="navBar">
     <div class="logoContainer">
         <img src="/LifeCaddieWebsite/assets/pictures/LifeCaddieLogoSquare.png" alt="Life Caddie logo." height="100%"/>

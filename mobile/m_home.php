@@ -17,8 +17,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/LifeCaddieWebsite/assets/css/mobile_style.css">
+    <script src="/LifeCaddieWebsite/assets/js/menuConvert.js"></script>
     <title>Home</title>
 </head>
+<header>
+    <div class="navMenuButton" onclick="openMenu()">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+    <div class="menu">
+        <button class="navButton">First button!</button>
+        <button class="navButton">Second button!</button>
+        <button class="navButton">Third button!</button>
+        <button class="navButton">Fourth button!</button>
+    </div>
+</header>
 <body>
 <div class="banner">
         <img src="/LifeCaddieWebsite/assets/pictures/CleanHouse.png" alt="Banner photo of clean home." width="100%" />
