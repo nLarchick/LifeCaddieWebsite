@@ -37,7 +37,7 @@
             </div>
         </div>
     </div>
-    <div style="height: 2.5vw;"></div>
+    <div style="height: 2.5vw;" id="aboutSectionStart"></div>
     <div class="aboutSection">
         <h3>About Us</h3>
         <h5>Learn more about the Life Caddie company</h5>

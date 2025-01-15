@@ -19,6 +19,10 @@ body {
     background-color: #d4d4d4;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .transparent {
     opacity: 0.8;
 }
@@ -31,7 +35,7 @@ body {
     display: flex;
     z-index: 1000;
     padding: .5vw;
-    height: 4vw;
+    height: 3vw;
     width: 100%;
 }
 
