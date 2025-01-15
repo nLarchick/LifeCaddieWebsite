@@ -1,3 +1,14 @@
+/**
+ * headerConvert.js
+ * 
+ * Script for adjusting headerNav for
+ * better viewing and navigation.
+ * 
+ * @author: Noah Larchick
+ * Last Edited: 1/14/2024
+ * 
+*/
+
 document.addEventListener("DOMContentLoaded", () => {
     makeInvis(document.querySelector(".navBar"))
 });

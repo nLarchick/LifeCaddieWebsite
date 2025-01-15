@@ -13,10 +13,10 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<script src="/LifeCaddieWebsite/assets/js/headerConvert.js"></script>
+<script src="../assets/js/headerConvert.js"></script>
 <div class="navBar">
     <div class="logoContainer">
-        <img src="/LifeCaddieWebsite/assets/pictures/LifeCaddieLogoSquare.png" alt="Life Caddie logo." height="100%"/>
+        <img src="../assets/pictures/LifeCaddieLogoSquare.png" alt="Life Caddie logo." height="100%"/>
     </div>
     <div class="navDirections">
         <button class="navButton">First button!</button>
