@@ -113,7 +113,7 @@ html {
 .aboutSection {
     flex-direction: column;
     text-align: center;
-    padding: 0vw 12vw;
+    padding: 0vw 8vw;
     display: flex;
 }
 
@@ -129,26 +129,32 @@ html {
 
 .aboutContent {
     justify-content: space-between;
-    background-color: white;
     flex-direction: row;
     color: #1e435a;
-    font-size: 1.5vw;
+    font-size: 1.7vw;
     display: flex;
-    padding: 10px;
 }
 
-.aboutL {
+.aboutOffset {
+    width: 15%;
+}
+
+.aboutInfoContainer {
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 50px;
+    flex-direction: row;
+    padding: 1vw 4vw;
+    display: flex;
+    width: 85%;
+}
+
+.aboutConstruct {
     justify-content: center;
     flex-direction: column;
     display: flex;
     width: 49%;
-}
-
-.aboutR {
-    justify-content: center;
-    flex-direction: column;
-    display: flex;
-    width: 49%;
+    gap: 2vw;
 }
 
 .footer {

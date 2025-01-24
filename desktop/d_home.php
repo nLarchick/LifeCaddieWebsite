@@ -43,22 +43,41 @@
         <h5>Learn more about the Life Caddie company</h5>
         <div style="height: 2.5vw;"></div>
         <div class="aboutContent">
-            <div class="aboutL">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius hendrerit libero, a varius dolor 
-                    sodales quis. Maecenas facilisis lectus dictum erat pretium eleifend. Ut cursus ante diam, non vestibulum 
-                    urna semper sed. Nunc ac maximus erat, non tristique metus. Donec nec metus et mauris gravida vestibulum. 
-                    Integer et mi nec nibh ultricies pretium quis ac sapien. Vestibulum id leo lacus. In finibus ut odio vel 
-                    ullamcorper. Curabitur at neque tempor dui posuere pharetra. Vivamus fringilla, orci a accumsan vulputate, 
-                    est est porta dui, eu feugiat nisl est at velit. Sed finibus sodales ante sodales mattis. Nullam gravida 
-                    purus ac ante elementum accumsan. Etiam congue orci viverra augue convallis, id vestibulum lectus 
-                    sollicitudin. Vestibulum bibendum urna sit amet dictum faucibus. Duis ligula ex, consectetur eu risus 
-                    nec, semper pellentesque lorem. Vivamus vulputate a dolor eget pretium.
-                </p>
+            <div class="aboutOffset"></div>
+            <div class="aboutInfoContainer">
+                <div class="aboutConstruct">
+                    <p>
+                        Since 2018, the <b>Life Caddie company</b> has been working hard to make client's home 
+                        and life (or home/life of a loved one) a safer, easier to navigate, and healthier place 
+                        to reside. The company is family run and dedicated to providing a tailored experience 
+                        to clients each and every time. Life Caddie serves the <b>Denver metro</b> area and surrounding 
+                        areas and will continue to do so.
+                    </p>
+                </div>
+                <div class="aboutConstruct">
+                    <img src="../assets/pictures/LifeCaddieLogo.jpg" alt="Life Caddie Logo." width="90%" />
+                </div>
             </div>
-            <div class="aboutR">
-                <img src="../assets/pictures/LifeCaddieLogo.jpg" alt="Life Caddie Logo." width="100%" />
+        </div>
+        <div style="height: 2.5vw;"></div>
+        <div class="aboutContent">
+            <div class="aboutInfoContainer">
+                <div class="aboutConstruct">
+                    <img src="../assets/pictures/ReachingHands.png" alt="Life Caddie Logo." width="90%" style="border-radius: 50px;"/>
+                </div>
+                <div class="aboutConstruct">
+                    <p>
+                        If you or a loved one are looking for help with downsizing or re-organizing, Life Caddie 
+                        may be the trusted partner you need to facilitate healthy and beneficial change to your 
+                        living situation.
+                    </p>
+                    <div>
+                        <button class="bannerButton">Button for services</button>
+                        <button class="bannerButton">Button for contact</button>
+                    </div>
+                </div>
             </div>
+            <div class="aboutOffset"></div>
         </div>
     </div>
     <div style="height: 2.5vw;"></div>
