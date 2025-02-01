@@ -110,6 +110,42 @@ html {
     cursor: pointer;
 }
 
+.landingSection {
+    background-color: red;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    padding: 0.5vw 0px 0.5vw;
+}
+
+.landingTextComp {
+    background-color: greenyellow;
+    line-height: 2.2vw;
+    font-size: 1.5vw;
+    width: 90%;
+}
+
+.landingSection h3{
+    font-size: 2.6vw;
+}
+
+.inlineButton {
+    display: inline-block;
+    padding: 0px 1vw 0px;
+    background-color: #007bff; /* Primary blue */
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1vw;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.inlineButton:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
 .aboutSection {
     flex-direction: column;
     text-align: center;
