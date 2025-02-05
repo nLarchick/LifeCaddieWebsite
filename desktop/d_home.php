@@ -30,8 +30,8 @@
         <img src="../assets/pictures/CleanHouse.png" alt="Banner photo of clean home." width="100%" />
         <div class="bannerInternal">
             <div class="bannerL">
-                <h2>We can help with</h2>
-                <h2>Downsizing</h2>
+                <h1>We can help with</h1>
+                <h1>Downsizing</h1>
             </div>
             <div class="bannerR">
                 <button class="bannerButton">First Button</button>
@@ -44,7 +44,7 @@
     <div style="height: 2.5vw;"></div>
 
     <div class="landingSection">
-        <h3>Life Caddie can help</h3>
+        <h1>Life Caddie can help</h1>
 
         <div class="landingTextComp">
             <p>
