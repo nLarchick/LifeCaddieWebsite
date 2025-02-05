@@ -46,6 +46,8 @@
     <div class="landingSection">
         <h1>Life Caddie can help</h1>
 
+        <hr style="width: 60%;">
+
         <div class="landingTextComp">
             <p>
                 If you or a loved one are looking for help with decluttering, moving, downsizing, or life management; 
