@@ -17,8 +17,39 @@
 
 body {
     background-color: #d4d4d4;
+    font-size: 3vw;
 }
 
 .transparent {
     opacity: 0.8;
+}
+
+#banner {
+    position: relative;
+}
+
+#banner-internal {
+    text-shadow: 2px 2px 4px #4a3c39;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    position: absolute;
+    color: white;
+    left: 50%;
+    top: 50%;
+}
+
+.dark-button {
+    background-color: #1e435a;
+    transition: all 0.5s ease;
+    border-radius: 15px;
+    padding: 2% 20%;
+    color: white;
+    font-size: 3vw;
+    border: 0px;
+}
+
+.dark-button:hover {
+    background-color: #e49d5d;
+    cursor: pointer;
+    color: black;
 }

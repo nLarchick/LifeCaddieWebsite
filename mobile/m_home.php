@@ -19,4 +19,18 @@
     <link rel="stylesheet" href="../assets/css/mobile_style.css">
     <title>Home</title>
 </head>
+
+<body>
+    <div id="banner">
+        <img src="..\assets\pictures\CleanHouse.png" alt="Picture of a clean house." width="100%">
+        <div id="banner-internal">
+            <h1>Life Caddie Downsizing</h1>
+
+            <button class="dark-button" style="margin-top: 3%;">Button A</button>
+            <button class="dark-button" style="margin-top: 4%;">Button B</button>
+        </div>
+    </div>
+    <p>This is below the banner!</p>
+</body>
+
 </html>
