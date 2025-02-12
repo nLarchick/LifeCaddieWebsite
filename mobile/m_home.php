@@ -23,14 +23,22 @@
 <body>
     <div id="banner">
         <img src="..\assets\pictures\CleanHouse.png" alt="Picture of a clean house." width="100%">
+
         <div id="banner-internal">
             <h1>Life Caddie Downsizing</h1>
 
             <button class="dark-button" style="margin-top: 3%;">Button A</button>
+            
             <button class="dark-button" style="margin-top: 4%;">Button B</button>
         </div>
     </div>
-    <p>This is below the banner!</p>
+    
+    <div id="landingStrip">
+        <h2>We can help with <b>downsizing</b></h2>
+
+        <p>Life Caddie is a professional organizing service that helps clients take control of their 
+            homes and lives by providing a comprehensive range of organizing solutions .</p>
+    </div>
 </body>
 
 </html>

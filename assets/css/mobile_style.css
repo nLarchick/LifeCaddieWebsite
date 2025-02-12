@@ -2,20 +2,26 @@
    Filename: mobile styles.css
    Author: Noah Larchick
    Created: 1/10/2025
-   Updated: 1/10/2025
-   Description: This file contains the styles for the Life Caddie Website.
+   Updated: 2/12/2025
+   Description: This file contains the styles for the Life Caddie Mobile Website.
    Notes: 
     - Color palates can be found @ "colors.txt" file
     - Along with descriptions for each, use for easy color hex selection.
 */
 
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins-Regular.ttf') format('truetype');
 }
 
 body {
+    font-family: 'Poppins', Arial, sans-serif;
     background-color: #d4d4d4;
     font-size: 3vw;
 }
