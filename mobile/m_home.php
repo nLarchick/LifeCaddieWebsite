@@ -34,10 +34,16 @@
     </div>
     
     <div id="landingStrip">
-        <h2>We can help with <b>downsizing</b></h2>
+        <h2>We can help with downsizing</h2>
+
+        <hr style="width: 80%; margin: auto;">
 
         <p>Life Caddie is a professional organizing service that helps clients take control of their 
-            homes and lives by providing a comprehensive range of organizing solutions .</p>
+            homes and lives by providing a comprehensive range of organizing solutions.</p>
+        
+        <button class="light-button">| Services We Offer |</button>
+
+        <button class="light-button">| Call our team today |</button>
     </div>
 </body>
 

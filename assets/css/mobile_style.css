@@ -20,8 +20,13 @@
     src: url('../fonts/Poppins-Regular.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'SourceSans';
+    src: url('../fonts/SourceSansPro-Regular.ttf') format('truetype');
+}
+
 body {
-    font-family: 'Poppins', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif, Arial;
     background-color: #d4d4d4;
     font-size: 3vw;
 }
@@ -45,6 +50,7 @@ body {
 }
 
 .dark-button {
+    font-family: 'SourceSans', sans-serif, Arial;
     background-color: #1e435a;
     transition: all 0.5s ease;
     border-radius: 15px;
@@ -58,4 +64,27 @@ body {
     background-color: #e49d5d;
     cursor: pointer;
     color: black;
+}
+
+#landingStrip {
+    background-color: #4a3c39;
+    padding-bottom: 8px;
+    text-align: center;
+    color: white;
+}
+
+.light-button {
+    font-family: 'SourceSans', sans-serif, Arial;
+    background-color: transparent;
+    transition: all 0.5s ease;
+    font-weight: bold;
+    padding: 1% 2%;
+    color: white;
+    font-size: 4vw;
+    border: 0px;
+}
+
+.light-button:hover {
+    color: #e49d5d;
+    cursor: pointer;
 }
