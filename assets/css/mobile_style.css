@@ -73,6 +73,10 @@ body {
     color: white;
 }
 
+#landingStrip p, #landingStrip h2 {
+    padding: 1vw 3vw;
+}
+
 .light-button {
     font-family: 'SourceSans', sans-serif, Arial;
     background-color: transparent;
